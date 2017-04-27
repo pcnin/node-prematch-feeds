@@ -1,0 +1,24 @@
+{
+  "author": "Fran <macnin@gmail.com>",
+  "name": "new.feeds",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {
+    "dateformat": "~2.0.0",
+    "graceful-fs": "^4.1.11",
+    "log4js": "~0.6.38",
+    "mysql": "~2.11.1",
+    "q": "~1.4.1",
+    "request": "~2.79.0",
+    "underscore": "~1.8.3",
+    "utf8": "~2.1.2",
+    "xml2js": "~0.4.17"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
